@@ -80,7 +80,7 @@ class Kehan:
 
 <div align="center">
 
-📬 **kehandilmith0@gmail.com**
+📬 **kehandilmith@proton.me**
 
 *currently open to: cool projects · collab on bots · freelance web stuff (soon™)*
 
